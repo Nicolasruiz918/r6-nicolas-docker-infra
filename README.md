@@ -1,1 +1,0 @@
-# r6-nicolas-docker-infra
